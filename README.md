@@ -28,3 +28,4 @@
     Mendefiniskan kolom/baris dengan cara menuliskan nilai dipisahkan oleh spasi. Nilai merepresentasikan ukuran **grid track** dan spasi merepresentasikan **grid line**
 
 # Grid Properti
+![Grid Properti](https://github.com/dulabdul/CSS-Grid-WPU/blob/main/Grid_properti.png)
