@@ -29,3 +29,23 @@
 
 # Grid Properti
 ![Grid Properti](https://github.com/dulabdul/CSS-Grid-WPU/blob/main/Grid_properti.png)
+
+## Special Function & Keywords
+
+* **repeat**
+    Menentukan ukuran **grid track** secara berulang
+
+* **min-content & max-content**
+    Menentukan seberapa besar ukuran **grid track** berdasarkan content pada sebuah item
+
+* **minmax()**
+    Menentukan ukuran minimal dan maksimal dari **grid track**
+
+* **auto-fill & auto-fit**
+    Menentukan jumlah item untuk berada pada **grid track**
+
+# Grid Area & Grid Gap
+
+* **grid-template-area**
+    Mendefiniskan grid template menggunakan nama dari area yang ditulis pada property **grid-area** pada item.
+    
