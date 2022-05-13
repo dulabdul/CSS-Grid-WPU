@@ -1,0 +1,38 @@
+* {
+
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    display: grid;
+    width: 800px;
+    margin: 50px auto;
+    border: 3px solid black;
+    box-sizing: border-box;
+}
+
+header {
+    background-color: purple;
+    padding: 40px;
+}
+
+aside {
+    background-color: darkblue;
+    padding: 60px;
+}
+
+nav {
+    background-color: darkgreen;
+    padding: 60px;
+}
+
+main {
+    background-color: darkgrey;
+    padding: 60px;
+}
+
+footer {
+    background-color: crimson;
+    padding: 20px;
+}

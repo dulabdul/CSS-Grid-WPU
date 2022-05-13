@@ -26,3 +26,5 @@
 
 * **grid-template-columns & grid-template-rows**
     Mendefiniskan kolom/baris dengan cara menuliskan nilai dipisahkan oleh spasi. Nilai merepresentasikan ukuran **grid track** dan spasi merepresentasikan **grid line**
+
+# Grid Properti
