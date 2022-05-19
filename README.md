@@ -49,3 +49,28 @@
 * **grid-template-area**
     Mendefiniskan grid template menggunakan nama dari area yang ditulis pada property **grid-area** pada item.
     
+# Grid Alignment
+
+* **justify-items**
+    Mensejajarkan grid-items pada sumbu horizontal
+
+* **align-items**
+    Mensejajarkan grid items pada sumbu vertikal
+
+* **justify-content**
+    Mengatur posisi seluruh grid-container pada sumbu horizontal.
+    Ini bisa dilakukan ketika ukuran total grid lebih kecil dari ukuran containernya, biasanya ketika grid items nya menggunakan ukuran yang fixed(px)
+
+* **align-content**
+    Mengatur posisi seluruh grid-container pada sumbu vertikal.
+    Ini bisa dilakukan ketika ukuran total grid lebih kecil dari ukuran containernya, biasanya ketika grid items nya menggunakan ukuran yang fixed(px)
+
+* **grid-area**
+    Menentukan nama area pada item sesuai dengan tempalte yang sudah dibuat sebelumnya melalui properti grid-template-areas.
+    Bisa digunakan sebagai shorthand untuk grid-column-start, grid-column-end, grid-row-start, dan grid-row-end.
+
+* **justify-self**
+    Mengatur posisi item pada sebuah cell terhadap sumbu horizontal.
+
+* **justify-self**
+    Mengatur posisi item pada sebuah cell terhadap sumbu vertikal .
